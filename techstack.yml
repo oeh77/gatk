@@ -1,0 +1,525 @@
+repo_name: oeh77/gatk
+report_id: cf931f35a482845b34e84d00280649e0
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-28T02:44:20+00:00'
+requested_by: asmirnov239
+provider: github
+branch: master
+detected_tools_count: 37
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/oeh77/gatk
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/oeh77/gatk
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/oeh77/gatk
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/oeh77/gatk
+  detection_source: Repo Metadata
+- name: R Language
+  description: A language and environment for statistical computing and graphics
+  website_url: http://www.r-project.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/oeh77/gatk
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: Lee Lichtenstein
+  last_updated_on: 2017-05-17 01:04:30.000000000 Z
+- name: Apache FreeMarker
+  description: A free Java-based template engine
+  website_url: http://freemarker.incubator.apache.org/index.html
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg
+  detection_source_url: https://github.com/oeh77/gatk
+  detection_source: Repo Metadata
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/codecov.yml
+  detection_source: codecov.yml
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2016-09-19 16:17:42.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/oeh77/gatk
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/oeh77/gatk
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/.github/workflows/carrot_run_test_from_pr_comment.yml
+  detection_source: ".github/workflows/carrot_run_test_from_pr_comment.yml"
+  last_updated_by: Kevin Lydon
+  last_updated_on: 2022-11-02 14:29:31.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-11-29 19:21:02.000000000 Z
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  version: 2.28.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: kcibul
+  last_updated_on: 2021-12-20 20:08:40.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: Lee Lichtenstein
+  last_updated_on: 2017-05-17 01:04:30.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/oeh77/gatk
+  detection_source: Repo Metadata
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/scripts/docker/gatkbase/Dockerfile
+  detection_source: scripts/docker/gatkbase/Dockerfile
+  last_updated_by: samuelklee
+  last_updated_on: 2020-05-04 14:13:53.000000000 Z
+- name: org.apache.commons:commons-configuration2
+  version: '2.4'
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
+  vulnerabilities:
+  - name: Code injection in Apache Commons Configuration
+    cve_id: CVE-2022-33980
+    cve_url: https://github.com/advisories/GHSA-xj57-8qj4-c4m6
+    detected_date: Jul 8
+    severity: critical
+    first_patched: 2.8.0
+  - name: Remote code execution in Apache Commons Configuration
+    cve_id: CVE-2020-1953
+    cve_url: https://github.com/advisories/GHSA-7qx4-pp76-vrqh
+    detected_date: Aug 22
+    severity: critical
+    first_patched: '2.7'
+  - name: 'Apache Commons Configuration: StackOverflowError adding property in AbstractListDelimiterHandler.flattenIterator()'
+    cve_id: CVE-2024-29131
+    cve_url: https://github.com/advisories/GHSA-xjp4-hw94-mvp5
+    detected_date: Mar 22
+    severity: moderate
+    first_patched: 2.10.1
+  - name: 'Apache Commons Configuration: StackOverflowError calling ListDelimiterHandler.flatten(Object,
+      int) with a cyclical object tree'
+    cve_id: CVE-2024-29133
+    cve_url: https://github.com/advisories/GHSA-9w38-p64v-xpmv
+    detected_date: Mar 22
+    severity: moderate
+    first_patched: 2.10.1
+- name: commons-beanutils:commons-beanutils
+  description: Apache Commons BeanUtils provides an easy-to-use but flexible wrapper
+    around reflection and introspection
+  version: 1.9.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
+  vulnerabilities:
+  - name: Insecure Deserialization in Apache Commons Beanutils
+    cve_id: CVE-2019-10086
+    cve_url: https://github.com/advisories/GHSA-6phf-73q6-gh87
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.9.4
+- name: org.xerial:sqlite-jdbc
+  description: SQLite JDBC library
+  version: 3.36.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
+  vulnerabilities:
+  - name: Sqlite-jdbc vulnerable to remote code execution when JDBC url is attacker
+      controlled
+    cve_id: CVE-2023-32697
+    cve_url: https://github.com/advisories/GHSA-6phf-6h5g-97j2
+    detected_date: May 24
+    severity: high
+    first_patched: 3.41.2.2
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  version: '2.5'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
+  vulnerabilities:
+  - name: Path Traversal and Improper Input Validation in Apache Commons IO
+    cve_id: CVE-2021-29425
+    cve_url: https://github.com/advisories/GHSA-gwrp-pvrq-jmwv
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: '2.7'
+- name: org.apache.httpcomponents:httpclient
+  description: Apache HttpComponents Client
+  version: 4.5.12
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
+  vulnerabilities:
+  - name: Cross-site scripting in Apache HttpClient
+    cve_id: CVE-2020-13956
+    cve_url: https://github.com/advisories/GHSA-7r82-7xv7-xcpj
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.5.13
+- name: com.esotericsoftware:kryo
+  description: Fast, efficient Java serialization
+  version: 3.0.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-09-27 02:58:01.000000000 Z
+- name: com.google.cloud.bigdataoss:gcs-connector
+  description: An implementation of org.apache.hadoop.fs.FileSystem targeting Google
+    Cloud Storage
+  version: 1.9.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-09-27 02:58:01.000000000 Z
+- name: com.google.jimfs:jimfs
+  description: Jimfs is an in-memory implementation of Java 7's java.nio.file abstract
+    file system API
+  version: '1.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-09-27 02:58:01.000000000 Z
+- name: com.opencsv:opencsv
+  description: A simple library for reading and writing CSV in Java
+  version: '3.4'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-09-27 02:58:01.000000000 Z
+- name: com.thoughtworks.paranamer:paranamer
+  description: Paranamer allows runtime access to constructor and method parameter
+    names for Java classes
+  version: '2.8'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-09-27 02:58:01.000000000 Z
+- name: de.javakaffee:kryo-serializers
+  description: Additional kryo
+  version: '0.41'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-09-27 02:58:01.000000000 Z
+- name: it.unimi.dsi:fastutil
+  description: Fastutil extends the Java Collections Framework by providing type-specific
+    maps
+  version: 7.0.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: kcibul
+  last_updated_on: 2021-12-20 20:08:40.000000000 Z
+- name: org.apache.commons:commons-collections4
+  description: The Apache Commons Collections package contains types that extend and
+    augment the Java Collections Framework
+  version: '4.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  version: '3.5'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
+- name: org.apache.commons:commons-math3
+  description: The Apache Commons Math project is a library of lightweight
+  version: '3.5'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
+- name: org.apache.commons:commons-text
+  description: Apache Commons Text is a library focused on algorithms working on strings
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
+- name: org.apache.commons:commons-vfs2
+  description: Apache Commons VFS is a Virtual File System library
+  version: '2.0'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
+- name: org.jgrapht:jgrapht-core
+  description: Master repository for the JGraphT project
+  version: 1.1.0
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
+- name: org.mockito:mockito-core
+  description: Mockito mock objects library core API and implementation
+  version: 2.28.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
+- name: org.objenesis:objenesis
+  description: A library for instantiating Java objects
+  version: '1.2'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
+- name: org.reflections:reflections
+  description: Reflections - a Java runtime metadata analysis
+  version: 0.9.10
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/oeh77/gatk/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Louis Bergelson
+  last_updated_on: 2022-10-25 15:15:09.000000000 Z
